@@ -1,5 +1,4 @@
 local wezterm = require("wezterm")
-local mux = wezterm.mux
 
 local config = {}
 local home = os.getenv("HOME")
